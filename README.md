@@ -1,5 +1,5 @@
 # 3c.CREATION FOR FILE TRANSFER USING TCP SOCKETS
-## Name :HASNA MUBARAK AZEEM
+## Name : Baudhigan D
 ## AIM
 To write a python program for creating File Transfer using TCP Sockets Links
 ## ALGORITHM:
